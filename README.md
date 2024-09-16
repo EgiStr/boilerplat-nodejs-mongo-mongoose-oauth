@@ -128,19 +128,6 @@ npm install
 ```
 
 
-Migrate Database with Prisma
-
-```
-npx prisma migrate dev
-```
-
-Generate the Prisma Client
-
-```
-npx prisma generate
-```
-
-
 Start the server
 
 ```bash
