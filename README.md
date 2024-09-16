@@ -8,8 +8,8 @@ Berikut adalah teknologi yang digunakan dalam backend:
 
 1. Node.js
 2. Express.js
-3. MySQL
-4. Prisma
+3. mongodb 
+4. mongoose
 
 # Database dan ORM
 
@@ -18,13 +18,6 @@ Database digunakan untuk menyimpan data aplikasi. Database dapat berupa MySQL, P
 ## ERD 
 
 ERD (Entity Relationship Diagram) adalah diagram yang digunakan untuk merepresentasikan struktur database. ERD terdiri dari entitas, atribut, dan relasi antar entitas. ERD membantu kita memahami struktur database dan relasi antar tabel.
-
-<!-- image erd ./ERD.png -->
-<image src="ERD.png"/>
-
-# Komunikasi dengan Frontend
-
-Backend berkomunikasi dengan frontend melalui API. API ini memungkinkan frontend untuk mengirim permintaan ke server dan menerima respons. API ini dapat berupa RESTful API.
 
 # Struktur File Backend
 
@@ -155,5 +148,3 @@ npm start
 ```
 
 The server will start at `http://localhost:3000`# boilerplat-nodejs-mongo-mongoose-oauth
-# boilerplat-nodejs-mongo-mongoose-oauth
-# boilerplat-nodejs-mongo-mongoose-oauth
